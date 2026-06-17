@@ -17,7 +17,7 @@ class _StudentProfileScreenState extends State<StudentProfileScreen> {
   // ── Sample student data ────────────────────────────────────────────────────
   final StudentModel _student = const StudentModel(
     name: 'MM Polash',
-    studentId: 'STU-2025-0042',
+    studentId: 'DIU-2023-2026',
     department: 'Computer Science & Engineering',
   );
 
